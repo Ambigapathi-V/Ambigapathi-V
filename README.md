@@ -2,7 +2,7 @@
 
 ## **👋 About Me**
 
-Hello! I’m [Ambigapathi Kavin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile), a passionate data scientist and machine learning enthusiast. I specialize in building and deploying machine learning models, and I’m excited to showcase my work here.
+Hello! I’m [Ambigapathi](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile), a passionate data scientist and machine learning enthusiast. I specialize in building and deploying machine learning models, and I’m excited to showcase my work here.
 
 ## **🔭 Current Projects**
 
